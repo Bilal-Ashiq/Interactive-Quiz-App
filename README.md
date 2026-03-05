@@ -1,10 +1,10 @@
-🧠 React Quiz Application
+#🧠 React Quiz Application
 
 An interactive and dynamic Quiz Application built with React and Vite, designed to test users’ knowledge while demonstrating modern React development practices.
 
 This project focuses on state management, component architecture, dynamic UI behavior, and performance optimization using modern frontend tools.
 
-🚀 Features
+#🚀 Features
 ⏱️ Adaptive Difficulty Timers
 
 The quiz timer dynamically adjusts based on the selected difficulty level:
@@ -15,7 +15,7 @@ Medium – Balanced challenge
 
 Hard – Faster countdown for advanced users
 
-🔀 Dynamic Question Randomization
+#🔀 Dynamic Question Randomization
 
 Every quiz session is unique:
 
@@ -25,7 +25,7 @@ Answer options are shuffled dynamically
 
 This ensures users never get the same quiz twice.
 
-🏆 Local Leaderboard
+#🏆 Local Leaderboard
 
 A custom scoring system tracks top performances.
 
@@ -35,7 +35,7 @@ Displays top quiz attempts
 
 Persists data even after page reload
 
-🌓 Dark / Light Mode
+#🌓 Dark / Light Mode
 
 Seamless theme switching with custom styling logic:
 
@@ -45,7 +45,7 @@ Smooth UI transitions
 
 User preference retained during the session
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Frontend technologies used in this project:
 
@@ -61,7 +61,7 @@ CSS3
 
 React Hooks (useState, useEffect)
 
-⚙️ Installation & Setup
+#⚙️ Installation & Setup
 
 Clone the repository and run it locally.
 
