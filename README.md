@@ -1,53 +1,42 @@
-#🧠 React Quiz Application
+🧠 React Quiz Application
 
-An interactive and dynamic Quiz Application built with React and Vite, designed to test users’ knowledge while demonstrating modern React development practices.
+An interactive quiz app built with React & Vite, designed to test users’ knowledge while demonstrating modern React development practices.
+Focuses on state management, component architecture, dynamic UI behavior, and performance optimization.
 
-This project focuses on state management, component architecture, dynamic UI behavior, and performance optimization using modern frontend tools.
-
-#🚀 Features
+🚀 Features
 ⏱️ Adaptive Difficulty Timers
 
-The quiz timer dynamically adjusts based on the selected difficulty level:
+Timer adjusts based on difficulty:
 
-Easy – Longer timer for relaxed gameplay
+Easy – Relaxed pace
 
 Medium – Balanced challenge
 
-Hard – Faster countdown for advanced users
+Hard – Faster countdown
 
-#🔀 Dynamic Question Randomization
+🔀 Dynamic Question Randomization
 
-Every quiz session is unique:
+Questions and answers are shuffled every round
 
-Questions are randomized each round
+Ensures the quiz is never the same twice
 
-Answer options are shuffled dynamically
+🏆 Local Leaderboard
 
-This ensures users never get the same quiz twice.
-
-#🏆 Local Leaderboard
-
-A custom scoring system tracks top performances.
-
-Stores high scores using localStorage
+Tracks top scores using localStorage
 
 Displays top quiz attempts
 
-Persists data even after page reload
+Data persists even after page reload
 
-#🌓 Dark / Light Mode
+🌓 Dark / Light Mode
 
-Seamless theme switching with custom styling logic:
+Seamless theme toggle
 
-Toggle between Dark Mode and Light Mode
+Smooth transitions with custom CSS
 
-Smooth UI transitions
+User preference is retained during the session
 
-User preference retained during the session
-
-#🛠️ Tech Stack
-
-Frontend technologies used in this project:
+🛠️ Tech Stack
 
 React
 
@@ -55,16 +44,11 @@ Vite
 
 JavaScript (ES6+)
 
-HTML5
+HTML5 & CSS3
 
-CSS3
+React Hooks: useState, useEffect
 
-React Hooks (useState, useEffect)
-
-#⚙️ Installation & Setup
-
-Clone the repository and run it locally.
-
+⚙️ Installation & Setup
 # Clone repository
 git clone https://github.com/your-username/react-quiz-app.git
 
@@ -77,7 +61,7 @@ npm install
 # Run development server
 npm run dev
 
-Open in browser at http://localhost:5173.
+Open the app in your browser at: http://localhost:5173
 
 <img width="1919" height="983" alt="Screenshot 2026-02-24 043702" src="https://github.com/user-attachments/assets/a3804005-fdf4-4d4f-b6f1-0f620152e1e3" />
 <img width="1919" height="991" alt="Screenshot 2026-02-24 043740" src="https://github.com/user-attachments/assets/4204b0a6-3a9c-4dfc-aa1f-15447d5e7d51" />
